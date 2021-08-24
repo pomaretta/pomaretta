@@ -12,7 +12,7 @@
 
 - 🏢 I'm currently working at **Webbeds**
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.ai`, `.java`, `docker`, etc...
-- 💅 Created: [gpip](https://github.com/pomaretta/gpip)
+- ⛏ Created: [gpip](https://github.com/pomaretta/gpip)
 - 📫 Reach me: [twitter.com/pomaretta](https://twitter.com/pomaretta)
 - ⚡️ Fun fact: I like to make my own Tools to manage things like servers.
 
