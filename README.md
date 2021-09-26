@@ -16,6 +16,8 @@
 - 📫 Reach me: [twitter.com/pomaretta](https://twitter.com/pomaretta)
 - ⚡️ Fun fact: I like to make my own Tools to manage things like servers.
 
-**GitHub Metrics** <img src="https://media.giphy.com/media/xUPGcGO8JJLMfEhYis/giphy.gif" width="15px" style="margin: 0 5px">
+<!-- **GitHub Metrics** <img src="https://media.giphy.com/media/xUPGcGO8JJLMfEhYis/giphy.gif" width="15px" style="margin: 0 5px">
+
 ** **
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pomaretta&count_private=true&theme=algolia" alt="pomaretta" />
+-->
