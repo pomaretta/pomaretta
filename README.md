@@ -10,7 +10,7 @@
 
 #### **BIO**
 
-- 🏢 I'm currently working at **Webbeds**
+- 🏢 I'm currently working at **WebBeds**
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.ai`, `.java`, `docker`, etc...
 - ⛏ Created: [gpip](https://github.com/pomaretta/gpip)
 - 📫 Reach me: [twitter.com/pomaretta](https://twitter.com/pomaretta)
