@@ -4,15 +4,10 @@
 
 ---
 
-#### **NOW**
-
-- 🔨 Working on [gpip](https://github.com/pomaretta/gpip) and [Boxial](https://github.com/pomaretta/boxial)
-
 #### **BIO**
 
-- 🏢 I'm currently working at **WebBeds**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.ai`, `.java`, `docker`, etc...
-- ⛏ Created: [gpip](https://github.com/pomaretta/gpip)
+- 🏢 I'm currently working at **WebBeds** with Big Data
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.ai`, `.java`, `docker`, `.go` etc...
 - 📫 Reach me: [twitter.com/pomaretta](https://twitter.com/pomaretta)
 - ⚡️ Fun fact: I like to make my own Tools to manage things like servers.
 
