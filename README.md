@@ -1,4 +1,4 @@
-<h1 title="hehehe"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin: 0 5px">, it is Carlos Pomares!</h1>
+<h1> Hey 👋, it is Carlos Pomares!</h1>
 
 #### I'm a Web, Java and Python developer working in Palma de Mallorca, Spain
 
